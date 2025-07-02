@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Juan David Sotelo </h1>
 
-[26602b3d-2980-4875-9f40-531c282d94d6.png](https://postimg.cc/YGzhbQSM)
+[![26602b3d-2980-4875-9f40-531c282d94d6.png](https://i.postimg.cc/d1zrQBPk/26602b3d-2980-4875-9f40-531c282d94d6.png)](https://postimg.cc/YGzhbQSM)
 
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
